@@ -1,0 +1,42 @@
+<style>
+        #layer{
+            height: 100px;
+            width: 300px;
+            background-color: green;
+            position: fixed;
+            right: 0;
+            bottom: 0; 
+            opacity: 0.3;
+            -webkit-transition-duration: 2s;
+            -moz-transition-duration: 2s;
+            transition-duration: 2s;
+        }
+        #layer:hover{
+            width: 400px;
+            
+        } 
+        #test {
+	font-size:20px;
+	font-weight:bold;
+          margin-left: 100px;
+           display: block;
+            position: relative;
+        }
+        #forma{
+            margin:0 auto;
+            width: 100px;
+        }
+        #outputs{
+            margin:0 auto;
+            width: 400px;
+        }
+        
+        .colors{
+            background-color: greenyellow;
+            width:20%;            
+        }
+        .colorsquery{
+             background-color: #D54A4A;
+            width:30%;
+        }
+        </style>
