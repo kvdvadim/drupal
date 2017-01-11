@@ -5,7 +5,7 @@ echo "<pre>";
 print_r ($mas);
 echo "</pre>";
 function massiv ($mas1){
- 
+
 for ($i=0; $i<count($mas1);$i++)
 {  
 } 
